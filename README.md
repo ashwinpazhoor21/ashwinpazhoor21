@@ -18,13 +18,14 @@ I'm a **Computer Science student** at the University of California, Santa Cruz, 
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Featured Projects
 
-- 🔥 **[CareerBot]**: AI-driven chatbot assisting students in career exploration using **ONet** data and social media analytics.
-- 🔧 **[Autonomous Vehicle Systems]**: Enhanced AV systems using **Docker** and **Kubernetes**, implementing a CI/CD pipeline.
-- 💡 **[Currency Converter]**: A real-time web app for currency conversion using **JavaScript** and **Django**.
-- 📧 **[Email Client]**: Built with **Django** and **Python**, featuring inbox management and real-time updates.
-- 📝 **[Text Editor]**: Developed using C and data structures, optimized for file I/O operations.
+Here are a few projects that I’ve worked on:
+
+- **[CareerBot]** - An AI-driven chatbot helping students with career guidance using **ONet** data and social media insights.
+- **[Autonomous Vehicle Systems]** - Enhanced AV systems using **Docker** and **Kubernetes**, implementing a CI/CD pipeline for faster deployments.
+- **[Currency Converter]** - A real-time web app for currency conversion using **JavaScript** and **Django**.
+- **[Text Editor]** - Developed using C and data structures, optimized for efficient file I/O operations.
 
 ---
 
@@ -36,16 +37,30 @@ I'm a **Computer Science student** at the University of California, Santa Cruz, 
 
 ---
 
-## 🌟 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashwinpazhoor21&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpazhoor21&theme=radical" />
-</p>
+- **IBM: Deep Neural Networks with PyTorch** 
+- **IBM: Introduction to Computer Vision and Image Processing** 
+- **IBM: Introduction to Deep Learning & Neural Networks with Keras** 
+- **IBM: Machine Learning with Python** 
+- **IBM: AI Capstone Project with Deep Learning** 
+- **IBM: AI Engineering Specialization**
+- **IBM: Building Deep Learning Models with TensorFlow** 
+- **University of Michigan: Building Web Applications in PHP** 
+- **UC Santa Cruz: Coding for Everyone: C and C++ Specialization** 
+- **Harvard University: Web Programming with Python and JavaScript** 
 
 ---
 
-## 🌐 Let's Connect:
+## 📬 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/ashwin-pazhoor-4220a2219/)
-- [GitHub](https://github.com/ashwinpazhoor21)
+- **LinkedIn**: [Ashwin Pazhoor](https://www.linkedin.com/in/ashwin-pazhoor-4220a2219/)
+- **Email**: [apazhoor@ucsc.edu](mailto:apazhoor@ucsc.edu)
+
+---
+
+## 📈 My Goals
+
+- Continue contributing to open-source projects in the fields of **Autonomous Systems** and **AI**.
+- Learn more about **Machine Learning** and **Cloud Infrastructure**.
+- Collaborate with other passionate developers to build impactful tech solutions.
