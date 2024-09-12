@@ -9,40 +9,43 @@ I'm a **Computer Science student** at the University of California, Santa Cruz, 
 
 ---
 
+## 🏆 Accomplishments
+
+- **Autonomous Vehicles Researcher** at UCSC: Improved deployment time by 30% using Docker and Kubernetes.
+- **Undergraduate Researcher** at Tech4Good: Developed AI-driven chatbots, improving user engagement by 250%.
+- **Co-Founder of Soshal**: Boosted student engagement by 300% with a cross-platform app built using Flutter.
+- **Instructor at TheCodeBakery**: Delivered over 25 coding tutorials, doubling student satisfaction with enhanced content.
+
+---
+
+## 🚀 Projects & Contributions
+
+- 🔥 **[CareerBot]**: AI-driven chatbot assisting students in career exploration using **ONet** data and social media analytics.
+- 🔧 **[Autonomous Vehicle Systems]**: Enhanced AV systems using **Docker** and **Kubernetes**, implementing a CI/CD pipeline.
+- 💡 **[Currency Converter]**: A real-time web app for currency conversion using **JavaScript** and **Django**.
+- 📧 **[Email Client]**: Built with **Django** and **Python**, featuring inbox management and real-time updates.
+- 📝 **[Text Editor]**: Developed using C and data structures, optimized for file I/O operations.
+
+---
+
 ## 🛠 Skills & Tools
 
 <div align="center">
-  <h3>Languages & Tools</h3>
-  <script>
-    const skills = [
-      { name: 'Java', icon: 'https://skillicons.dev/icons?i=java' },
-      { name: 'Python', icon: 'https://skillicons.dev/icons?i=python' },
-      { name: 'C', icon: 'https://skillicons.dev/icons?i=c' },
-      { name: 'C++', icon: 'https://skillicons.dev/icons?i=cpp' },
-      { name: 'JavaScript', icon: 'https://skillicons.dev/icons?i=javascript' },
-      { name: 'Flutter', icon: 'https://skillicons.dev/icons?i=flutter' },
-      { name: 'Django', icon: 'https://skillicons.dev/icons?i=django' },
-      { name: 'Express', icon: 'https://skillicons.dev/icons?i=express' },
-      { name: 'MySQL', icon: 'https://skillicons.dev/icons?i=mysql' },
-      { name: 'MongoDB', icon: 'https://skillicons.dev/icons?i=mongodb' },
-      { name: 'Git', icon: 'https://skillicons.dev/icons?i=git' },
-      { name: 'Docker', icon: 'https://skillicons.dev/icons?i=docker' },
-      { name: 'Kubernetes', icon: 'https://skillicons.dev/icons?i=kubernetes' },
-      { name: 'Heroku', icon: 'https://skillicons.dev/icons?i=heroku' },
-      { name: 'HTML', icon: 'https://skillicons.dev/icons?i=html' },
-      { name: 'CSS', icon: 'https://skillicons.dev/icons?i=css' },
-      { name: 'Bootstrap', icon: 'https://skillicons.dev/icons?i=bootstrap' },
-      { name: 'Angular', icon: 'https://skillicons.dev/icons?i=angular' },
-      { name: 'TensorFlow', icon: 'https://skillicons.dev/icons?i=tensorflow' }
-    ];
-
-    document.write('<div style="display:flex; flex-wrap:wrap; justify-content:center;">');
-    skills.forEach(skill => {
-      document.write(`<div style="margin: 10px; text-align:center;">
-        <img src="${skill.icon}" alt="${skill.name}" width="60" />
-        <p>${skill.name}</p>
-      </div>`);
-    });
-    document.write('</div>');
-  </script>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,flutter,django,express,mysql,mongodb,git,docker,kubernetes,heroku,html,css,bootstrap,angular,tensorflow" alt="Skills" />
 </div>
+
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashwinpazhoor21&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpazhoor21&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect:
+
+- [LinkedIn](https://www.linkedin.com/in/ashwin-pazhoor-4220a2219/)
+- [GitHub](https://github.com/ashwinpazhoor21)
