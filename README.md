@@ -49,6 +49,7 @@ Here are a few projects that I’ve worked on:
 - **University of Michigan: Building Web Applications in PHP** 
 - **UC Santa Cruz: Coding for Everyone: C and C++ Specialization** 
 - **Harvard University: Web Programming with Python and JavaScript** 
+- **Duke University: Programming Foundations with JavaScript, HTML, CSS**
 
 ---
 
