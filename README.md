@@ -11,7 +11,6 @@ I'm a **Computer Science student** at the University of California, Santa Cruz, 
 
 ## 🛠 Skills & Tools
 
-```html
 <div align="center">
   <h3>Languages & Tools</h3>
   <script>
